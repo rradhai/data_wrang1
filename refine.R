@@ -1,3 +1,7 @@
+#loading the packages
+library(dplyr)
+library(tidyr)
+library(tidyverse)
 #load CSV
 refine <- read.csv("C:/Users/rradh/Desktop/radhai/Data Science/refine_original.csv")
 View(refine)
